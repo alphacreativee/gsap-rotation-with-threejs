@@ -354,7 +354,7 @@ document.addEventListener("DOMContentLoaded", () => {
         end: `+=${window.innerHeight * 3}px`,
         pin: true,
         scrub: true,
-        markers: true,
+        // markers: true,
       },
     });
     const cam1 = {
